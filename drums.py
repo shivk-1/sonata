@@ -9,7 +9,7 @@ import math
 SCREEN_WIDTH, SCREEN_HEIGHT = 1280, 720
 BACKGROUND_COLOR = (15, 20, 40)
 
-# --- UI and Colors ---
+#ui
 WHITE_COLOR = (255, 255, 255)
 BLACK_COLOR = (0, 0, 0)
 KEY_PRESS_COLORS = [
